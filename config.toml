@@ -6,7 +6,7 @@
 # all usernames are login names for github
 Users = ["acrlewis"]
 # Name is just the name of the repository containing the blog issues/articles
-Name = "blog"
+Name = "accelg"
 
 # section Site contains all data that will be used in the statically generated html.
 [Site]
