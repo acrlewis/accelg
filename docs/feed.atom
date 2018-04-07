@@ -1,11 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Accelerated Group</title>
   <id>https//acrlewis.github.io/accelg</id>
-  <updated>2018-04-07T07:29:06-07:00</updated>
+  <updated>2018-04-07T07:48:23-07:00</updated>
   <subtitle>A short description of your content or something clever..</subtitle>
   <link href="https//acrlewis.github.io/accelg"></link>
   <author>
     <name>@acrlewis</name>
     <email>Steve@accelcg.com</email>
   </author>
+  <entry>
+    <title>test</title>
+    <updated>2018-04-07T14:41:20Z</updated>
+    <id>tag:,2018-04-07:https//acrlewis.github.io/accelg/1-test.html</id>
+    <link href="https//acrlewis.github.io/accelg/1-test.html" rel="alternate"></link>
+    <summary type="html">just a test issue for utterances</summary>
+    <author>
+      <name>@acrlewis</name>
+      <email>Steve@accelcg.com</email>
+    </author>
+  </entry>
 </feed>
