@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?><feed xmlns="http://www.w3.org/2005/Atom">
   <title>Accelerated Group</title>
   <id>https//acrlewis.github.io/accelg</id>
-  <updated>2018-04-07T07:07:32-07:00</updated>
+  <updated>2018-04-07T07:28:02-07:00</updated>
   <subtitle>A short description of your content or something clever..</subtitle>
   <link href="https//acrlewis.github.io/accelg"></link>
   <author>
     <name>@acrlewis</name>
-    <email>your email address</email>
+    <email>Steve@accelcg.com</email>
   </author>
 </feed>
