@@ -13,8 +13,8 @@ Name = "accelg"
 Title = "Accelerated Group"
 Author = "@acrlewis"
 OneLineDesc = "A short description of your content or something clever.."
-Twitter = "Your Twitter handle"
-Mail = "your email address"
+Twitter = "@acrlewis"
+Mail = "Steve@accelcg.com"
 # in the theme folder there is a theme.toml which specifies theme specific pages
 Theme = "default"
 
